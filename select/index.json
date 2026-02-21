@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "かけら ほのか",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2026-02-21T11:18:54.961528Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "かけら ほのか",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/01_かけら_ほのか_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "かけら ほのか",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/02_かけら_ほのか_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "かけら ほのか",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/03_かけら_ほのか_Sukima_Switch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "かけら ほのか",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_かけら_ほのか_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "かけら ほのか",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_かけら_ほのか_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "かけら ほのか",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_かけら_ほのか_スキマスイッチ.txt"
+    }
+  ]
+}
